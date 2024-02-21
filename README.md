@@ -14,6 +14,4 @@ This PowerPoint presentation is in Serbian language, so if you need to translate
 
 Good luck!
 Sergej Kaldesić
-E-Mail: sergej.kaldesic@gmail.com , sergej.kaldesic@hotmail.com , sodge.pyrite@gmail.com
-Phone: +387 66 081 887 (Bosnia & Herzegovina)
-Milići, "Solunskih junaka" 22, Milići, Republic of Srpska, Bosnia & Herzegovina
+E-Mail: sergej.kaldesic@gmail.com
