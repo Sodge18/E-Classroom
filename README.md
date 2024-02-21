@@ -1,4 +1,4 @@
-# E-Classroom-Solution-Proposal
+# E-Classroom
 Proposal solution for making new era e-classroom for student all over the world. Standard classroom with plenty of electric devices and New-Era school system of education.
 
 This is PowerPoint presentation which is made for solution proposal "E-Classroom". The idea is to make an classroom that fulfills all the requirements that are stated in this presentation. Actually, this classroom project presents new era in school system and education system because of its information technology that is included in normal classroom functionality (TVs, AI, Automated System in physical classroom, etc.).
